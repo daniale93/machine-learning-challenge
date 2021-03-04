@@ -1,5 +1,5 @@
 # machine-learning-challenge
-
+![alt text](https://github.com/daniale93/machine-learning-challenge/blob/main/images/exoplanets.jpg)
 ## Background
 
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
